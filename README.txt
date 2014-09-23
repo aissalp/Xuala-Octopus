@@ -1,4 +1,3 @@
-2222222
 Octopus video 1.x for Drupal 7.x
 ----------------------------
 Social video platform.
@@ -26,10 +25,6 @@ patches as well as a copy of the `Octopus video` install profile.
    or use its url on Drupal.org directly:
 
         $ drush make https://raw.github.com/heidisoft/Octopus/master/build-octopus-video.make [directory]
-
-
-
-—————————————————
 
 2. Choose the "Octopus Video" install profile when installing Drupal
 
