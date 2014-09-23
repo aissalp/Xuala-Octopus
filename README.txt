@@ -1,6 +1,4 @@
 Octopus video 1.x for Drupal 7.x
-
-jjjjhjhjjh
 ----------------------------
 Social video platform.
 
